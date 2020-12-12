@@ -1,11 +1,11 @@
 
-export class SampleCube implements ISystem {
-  META_ID = 52 // Change to your MetaZone meta number identifier
+export class Murphville implements ISystem {
+  META_ID = 1399 // Change to your MetaZone meta number identifier
 
   api = null
   host = null
 
-  /// --- Lets make a Cube ---
+  /// --- Homebase. ---
   cube = null
 
   /**
